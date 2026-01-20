@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#00ADB5"            # Teal (Warna Aksen Utama)
+backgroundColor = "#F4F6F8"         # Abu-abu sangat muda (Background Utama)
+secondaryBackgroundColor = "#FFFFFF" # Putih (Sidebar) <-- INI KUNCINYA
+textColor = "#222831"               # Hitam Arang (Warna Teks)
+font = "sans serif"
+
+[server]
+headless = true
